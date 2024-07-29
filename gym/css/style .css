@@ -1,0 +1,173 @@
+.nav-section{
+    float:left;
+    width:100%;
+}
+.nav-section ul{
+    float:right;
+    width:50%;
+}
+.nav-section li {
+    display:inline;
+    margin:0% 0% 0% 6%;
+    font-size: 16px;
+    font-family: "Ubuntu",sans-serif;
+    font-weight: 400;
+}
+.nav-section span{
+    float:left;
+    width:50%;
+    font-family: "Ubuntu",sans-serif;
+    font-size: 25.8px;
+    color:rgb(227, 74, 56);
+    font-weight: 700;
+    margin:3% 0% 0% 5%;
+
+}
+#join-btn{
+    background-color: rgb(227, 74, 56);
+    border-style: none;
+    width:12%;
+    height:26px;
+}
+#hline{
+    margin:5% 10% 0% 2%;
+    width:86%;
+}
+.body-section{
+    float:left;
+    width:100%;
+    margin:4% 0% 4% 0%;
+
+}
+.body-text{
+    float:left;
+    width:55%;
+    text-align: center;
+}
+
+#dumbell{
+    width:35%;
+    text-align: center;
+}
+.body-text h5{
+    font-family: "Ubuntu",sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: rgb(55,17,13);
+    font-family: "Ubuntu",sans-serif;
+}
+.body-text p{
+    width:60%;
+    text-align: center;
+    margin: 0% 0% 15% 20%;
+    color: rgb(55,17,13);
+    font-family: "Ubuntu",sans-serif;
+}
+.body-img{
+    float:left;
+    width:45%;
+
+}
+#gym{
+    width:60%;
+    margin:0% 0% 0% 8%;
+}
+.body-section i{
+    font-size: 20px;
+}
+.buttons{
+    text-align: center;
+    margin: 0% 0% 0% 38%;
+}
+.btn button{
+    background-color: rgb(227, 74, 56);
+    border-style: none;
+    width:20%;
+    height:26px;
+    float:left;
+    margin:0% 0% 0% 1.5%;
+}
+.price-section{
+    float:left;
+    width:100%;
+}
+.price-section h5{
+    font-size: 36px;
+    text-align: center;
+    font-family: "Ubuntu",sans-serif;
+}
+.price-section p{
+    text-align: center;
+    font-family: "Ubuntu",sans-serif;
+    width:75%;
+    margin:0% 0% 0% 13%;
+}
+.price-1{
+    float:left;
+    width:20%;
+    border-style:solid;
+    text-align: center;
+    margin:5% 0% 10% 15%;
+    border-radius: 8px;
+    border-width: 1.5px;
+}
+.price-2{
+    float:left;
+    width:20%;
+    border-style:solid;
+    text-align: center;
+    margin:5% 0% 0% 5%;
+    border-radius: 8px;
+    border-width: 1.5px;
+}
+.price-3{
+    float:left;
+    width:20%;
+    border-style:solid;
+    text-align: center;
+    margin:5% 0% 0% 5%;
+    border-radius: 8px;
+    border-width: 1.5px;
+}
+#sign-btn{
+    background-color: rgb(227, 74, 56);
+    border-style: none;
+    width:35%;
+    height:26px;
+    text-align: center;
+    margin:0% 0% 8% 0%;
+}
+.cmp-plans{
+    float:left;
+    width:100%;
+    margin:5% 0% 0% 0%;
+}
+.cmp-plans h4{
+    text-align: center;
+    font-family: "Ubuntu",sans-serif;
+    font-size: 36px;
+}
+.cmp-plans table{
+    text-align: center;
+    margin-bottom: 140px;
+    margin-top: 20px;
+    border-collapse: collapse;
+    width:70%;
+    margin:0% 0% 10% 15%;
+}
+
+.cmp-plans th{
+    width: 23vw; 
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+    font-family: "Ubuntu",sans-serif;
+}
+.cmp-plans td{
+    border-bottom: solid;
+    font-family: "Ubuntu",sans-serif;
+}
+.footer-section{
+    text-align: center;
+    margin:1.5% 0% 1.5% 0%;
+    font-family: "Ubuntu",sans-serif;
+}
